@@ -18,10 +18,6 @@ React.js, Bootstrap
 ## Install dependencies ##
 npm install
 
-## Author ##
-
-Tewodros Negusse
-  
 
 ## Acknowledgments ##
 
